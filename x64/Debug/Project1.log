@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\C++ Coding\Project1\Source.cpp(45,14): warning C4305: '*=': truncation from 'double' to 'float'
+E:\C++ Coding\Project1\Source.cpp(140,26): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+E:\C++ Coding\Project1\Source.cpp(143,26): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+E:\C++ Coding\Project1\Source.cpp(145,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\C++ Coding\Project1\Source.cpp(158,45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> E:\C++ Coding\Project1\x64\Debug\Project1.exe
